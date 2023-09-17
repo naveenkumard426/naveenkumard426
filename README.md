@@ -1,4 +1,4 @@
-![logo](https://github.com/naveenkumard426/naveenkumard426/blob/main/naveen_banner_img.jpeg)
+![logo](https://github.com/naveenkumard426/naveenkumard426/blob/main/updated_banner.jpg)
 <h1 align="center">Hi 👋, I'm Naveen Kumar D</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
